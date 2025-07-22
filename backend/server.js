@@ -1,5 +1,5 @@
 const express = require('express');
-const nodemon = require('nodemon');
+
 const dotenv = require('dotenv').config()
 const colors = require('colors');
 const connectDB = require('./config/db');

@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
-    "client": "npm start --prefifx frontend",
-    "dev":"concurrently \"npm run server\"\"npm run client\""
+    "client": "npm start --prefifx frontend"
+   
   },
   "author": "Somayyeh Mousavi",
   "license": "MIT",
